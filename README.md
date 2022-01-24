@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **nodejs**
 
-- 💬 Ask me about **react, redux, javascript**
+- 💬 Ask me about **React js, Redux, Javascript, C++**
 
 - 📫 How to reach me **arorahimanshu472@gmail.com**
 
